@@ -2,7 +2,7 @@
 session_start();
 require '../settings/connection.php';
 
-// Fetch posts from the database
+
 $sql = "SELECT * FROM posts ORDER BY created_at DESC";
 $result = $conn->query($sql);
 

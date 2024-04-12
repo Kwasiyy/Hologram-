@@ -50,14 +50,14 @@
             width: 100%;
             padding: 10px;
             border: none;
-            background-color: #000; /* Black background color */
+            background-color: #000; 
             color: #fff;
             border-radius: 4px;
             cursor: pointer;
         }
 
         input[type="submit"]:hover {
-            background-color: #333; /* Darken the background color on hover */
+            background-color: #333; 
         }
         
         .back-to-feed {

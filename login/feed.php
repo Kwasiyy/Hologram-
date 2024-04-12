@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feed</title>
     <style>
-        /* Your CSS styles here */
+
         body {
-            background-color: #fff; /* Set background color to white */
-            color: #000; /* Set text color to black */
+            background-color: #fff; 
+            color: #000; 
         }
 
         .profile-button {
@@ -16,8 +16,8 @@
             top: 20px;
             right: 120px;
             padding: 10px 20px;
-            background-color: #333; /* Change profile button color to light black */
-            color: #fff; /* Change profile button text color to white */
+            background-color: #333; 
+            color: #fff; 
             text-decoration: none;
             border: none;
             border-radius: 4px;
@@ -26,7 +26,7 @@
         }
 
         .profile-button:hover {
-            background-color: #555; /* Darken color on hover */
+            background-color: #555; 
         }
 
         .main-content {
@@ -86,14 +86,14 @@
         }
 
         .add-post-button:hover {
-            background-color: #555; /* Darken color on hover */
+            background-color: #555; 
         }
 
         .logo {
             position: fixed;
             top: 20px;
             left: 20px;
-            width: 160px; /* Double the width */
+            width: 160px; 
             height: auto;
             z-index: 999;
         }

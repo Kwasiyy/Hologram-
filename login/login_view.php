@@ -24,9 +24,9 @@
         }
 
         .background-image {
-            width: 40%; /* Adjust the width of the image as needed */
+            width: 40%; 
             height: auto;
-            margin-right: 20px; /* Add margin to separate the form from the image */
+            margin-right: 20px; 
         }
 
         .form-container {
@@ -35,7 +35,7 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             width: 300px;
-            margin-left: 20px; /* Add margin to separate the form from the image */
+            margin-left: 20px; 
         }
 
         h2 {
