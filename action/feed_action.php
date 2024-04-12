@@ -105,9 +105,11 @@ $result = $conn->query($sql);
             if (!empty($audio)) {
                 echo "<audio controls>";
                 echo "<source src='../$audio' type='audio/mp3'>";
+                echo "<source src='../$audio' type='audio/mpeg'>";
                 echo "Your browser does not support the audio element.";
                 echo "</audio>";
             }
+
 
             // Display video if available
             if (!empty($video)) {
